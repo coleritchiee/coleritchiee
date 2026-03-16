@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senior at Binghamton University studying Computer Science and Math<br>I am currently looking for a fast-paced and engaging internship where I can use the skills I've learned over the past few years
+I'm a senior at Binghamton University studying Computer Science and Math<br>I am currently looking for a fast-paced and engaging new grad position or internship where I can use the skills I've learned over the past few years
 
 
 ## 🌐 Socials:
