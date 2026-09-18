@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a senior at Binghamton University studying Computer Science and Math<br>I am currently looking for a fast-paced and engaging new grad position or internship where I can use the skills I've learned over the past few years
-
+I've recently graduated from Binghamton University with degrees in Computer Science and Mathematics. <br> I currently work at Coverdash as a full-time Software Engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coleritchie) 
